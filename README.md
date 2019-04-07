@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website contents
 
-Just text.
-One more.
+Testing.
